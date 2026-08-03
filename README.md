@@ -11,6 +11,3 @@
 
 ## Project Explanation
 This project uses classification pipelines with preprocessing and compares Logistic Regression, Decision Tree, SVC, and KNN. The best model is saved as `model.pkl`, exposed via FastAPI, and integrated into Streamlit frontend.
-
-## Deployment Demo Link
-Add deployed link here.
